@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="318" height="318" viewBox="0 0 318 318">
+  <g id="Group_1374" data-name="Group 1374" transform="translate(-1119 -289)">
+    <path id="Rectangle_783" data-name="Rectangle 783" d="M14,0H318a0,0,0,0,1,0,0V304a14,14,0,0,1-14,14H14A14,14,0,0,1,0,304V14A14,14,0,0,1,14,0Z" transform="translate(1119 289)" fill="#426da9"/>
+    <text id="Affordability" transform="translate(1278 462)" fill="#fff" font-size="34" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.007em"><tspan x="-88.627" y="0">Affordability</tspan></text>
+    <g id="Group_1331" data-name="Group 1331" transform="translate(1392.456 296.151)">
+      <g id="Group_1305" data-name="Group 1305" transform="translate(16.156 0) rotate(45)">
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="11.424" cy="11.424" r="11.424" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <g id="Group_970" data-name="Group 970" transform="translate(7.632 7.632)">
+          <g id="Group_968" data-name="Group 968" transform="translate(0 0)">
+            <line id="Line_6" data-name="Line 6" x2="7.584" y2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </g>
+          <g id="Group_969" data-name="Group 969" transform="translate(0 0)">
+            <line id="Line_7" data-name="Line 7" y1="7.584" x2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_1036" data-name="Path 1036" d="M255.861,272.825l5.6,5.6a2.645,2.645,0,1,0,3.74-3.741l-5.6-5.6" transform="translate(-233.659 -246.883)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
