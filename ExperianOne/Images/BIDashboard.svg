@@ -1,0 +1,18 @@
+<svg id="Dark_Blue_Service" data-name="Dark Blue Service" xmlns="http://www.w3.org/2000/svg" width="318" height="320" viewBox="0 0 318 320">
+  <path id="Rectangle_780" data-name="Rectangle 780" d="M14,0H318a0,0,0,0,1,0,0V306a14,14,0,0,1-14,14H14A14,14,0,0,1,0,306V14A14,14,0,0,1,14,0Z" fill="#1d4f91"/>
+  <text id="BI_Dashboard" data-name="BI Dashboard" transform="translate(159 174)" fill="#fff" font-size="34" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.007em"><tspan x="-99.155" y="0">BI Dashboard</tspan></text>
+  <g id="Group_1334" data-name="Group 1334" transform="translate(273.456 7.389)">
+    <g id="Group_1305" data-name="Group 1305" transform="translate(16.156 0) rotate(45)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="11.424" cy="11.424" r="11.424" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <g id="Group_970" data-name="Group 970" transform="translate(7.632 7.632)">
+        <g id="Group_968" data-name="Group 968" transform="translate(0 0)">
+          <line id="Line_6" data-name="Line 6" x2="7.584" y2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g id="Group_969" data-name="Group 969" transform="translate(0 0)">
+          <line id="Line_7" data-name="Line 7" y1="7.584" x2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_1036" data-name="Path 1036" d="M255.861,272.825l5.6,5.6a2.645,2.645,0,1,0,3.74-3.741l-5.6-5.6" transform="translate(-233.659 -246.883)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
