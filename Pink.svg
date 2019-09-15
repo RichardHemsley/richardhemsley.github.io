@@ -1,0 +1,14 @@
+<svg id="Aperture" xmlns="http://www.w3.org/2000/svg" width="317" height="318" viewBox="0 0 317 318">
+  <path id="Rectangle_799" data-name="Rectangle 799" d="M14,0H317a0,0,0,0,1,0,0V304a14,14,0,0,1-14,14H14A14,14,0,0,1,0,304V14A14,14,0,0,1,14,0Z" fill="#e63888"/>
+  <g id="Group_1305" data-name="Group 1305" transform="translate(290.893 7.151) rotate(45)">
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="11.424" cy="11.424" r="11.424" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Group_970" data-name="Group 970" transform="translate(7.632 7.632)">
+      <g id="Group_968" data-name="Group 968" transform="translate(0 0)">
+        <line id="Line_6" data-name="Line 6" x2="7.584" y2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+      <g id="Group_969" data-name="Group 969" transform="translate(0 0)">
+        <line id="Line_7" data-name="Line 7" y1="7.584" x2="7.584" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
